@@ -14,5 +14,11 @@ public class CreateCourse extends BaseClass {
 	public void loginToApplication() throws Exception {
 		System.out.println("Modified");
 	}
+	
+
+	@Test
+	public void test2() throws Exception {
+		System.out.println("Test 2 added");
+	}
 
 }
