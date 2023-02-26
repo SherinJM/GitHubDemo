@@ -2,42 +2,42 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-02-26T08:12:46 IST" name="Suite" finished-at="2023-02-26T08:13:06 IST" duration-ms="20291">
+  <suite started-at="2023-02-26T08:47:37 IST" name="Suite" finished-at="2023-02-26T08:47:59 IST" duration-ms="22580">
     <groups>
     </groups>
-    <test started-at="2023-02-26T08:12:46 IST" name="Test" finished-at="2023-02-26T08:13:06 IST" duration-ms="20291">
+    <test started-at="2023-02-26T08:47:37 IST" name="Test" finished-at="2023-02-26T08:47:59 IST" duration-ms="22580">
       <class name="testcases.CreateCourse">
-        <test-method is-config="true" signature="setUpBrowser()[pri:0, instance:testcases.CreateCourse@19c65cdc]" started-at="2023-02-26T08:12:46 IST" name="setUpBrowser" finished-at="2023-02-26T08:12:52 IST" duration-ms="5600" status="PASS">
+        <test-method is-config="true" signature="setUpBrowser()[pri:0, instance:testcases.CreateCourse@19c65cdc]" started-at="2023-02-26T08:47:37 IST" name="setUpBrowser" finished-at="2023-02-26T08:47:45 IST" duration-ms="8275" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpBrowser -->
-        <test-method signature="loginToApplication()[pri:0, instance:testcases.CreateCourse@19c65cdc]" started-at="2023-02-26T08:12:52 IST" name="loginToApplication" finished-at="2023-02-26T08:12:52 IST" duration-ms="54" status="PASS">
+        <test-method signature="loginToApplication()[pri:0, instance:testcases.CreateCourse@19c65cdc]" started-at="2023-02-26T08:47:45 IST" name="loginToApplication" finished-at="2023-02-26T08:47:45 IST" duration-ms="55" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginToApplication -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.CreateCourse@19c65cdc]" started-at="2023-02-26T08:12:53 IST" name="tearDown" finished-at="2023-02-26T08:12:53 IST" duration-ms="261" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.CreateCourse@19c65cdc]" started-at="2023-02-26T08:47:46 IST" name="tearDown" finished-at="2023-02-26T08:47:46 IST" duration-ms="357" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUpBrowser()[pri:0, instance:testcases.CreateCourse@19c65cdc]" started-at="2023-02-26T08:12:53 IST" name="setUpBrowser" finished-at="2023-02-26T08:12:56 IST" duration-ms="2650" status="PASS">
+        <test-method is-config="true" signature="setUpBrowser()[pri:0, instance:testcases.CreateCourse@19c65cdc]" started-at="2023-02-26T08:47:46 IST" name="setUpBrowser" finished-at="2023-02-26T08:47:49 IST" duration-ms="2497" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpBrowser -->
-        <test-method signature="test2()[pri:0, instance:testcases.CreateCourse@19c65cdc]" started-at="2023-02-26T08:12:56 IST" name="test2" finished-at="2023-02-26T08:12:56 IST" duration-ms="3" status="PASS">
+        <test-method signature="test2()[pri:0, instance:testcases.CreateCourse@19c65cdc]" started-at="2023-02-26T08:47:49 IST" name="test2" finished-at="2023-02-26T08:47:49 IST" duration-ms="6" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test2 -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.CreateCourse@19c65cdc]" started-at="2023-02-26T08:12:56 IST" name="tearDown" finished-at="2023-02-26T08:12:57 IST" duration-ms="305" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.CreateCourse@19c65cdc]" started-at="2023-02-26T08:47:50 IST" name="tearDown" finished-at="2023-02-26T08:47:50 IST" duration-ms="333" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- testcases.CreateCourse -->
       <class name="testcases.LoginTest">
-        <test-method is-config="true" signature="setUpBrowser()[pri:0, instance:testcases.LoginTest@60df60da]" started-at="2023-02-26T08:12:59 IST" name="setUpBrowser" finished-at="2023-02-26T08:13:02 IST" duration-ms="2732" status="PASS">
+        <test-method is-config="true" signature="setUpBrowser()[pri:0, instance:testcases.LoginTest@60df60da]" started-at="2023-02-26T08:47:52 IST" name="setUpBrowser" finished-at="2023-02-26T08:47:54 IST" duration-ms="2588" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpBrowser -->
-        <test-method signature="loginToApplication(java.lang.String,java.lang.String)[pri:0, instance:testcases.LoginTest@60df60da]" started-at="2023-02-26T08:13:02 IST" name="loginToApplication" data-provider="loginDataSet" finished-at="2023-02-26T08:13:02 IST" duration-ms="381" status="PASS">
+        <test-method signature="loginToApplication(java.lang.String,java.lang.String)[pri:0, instance:testcases.LoginTest@60df60da]" started-at="2023-02-26T08:47:54 IST" name="loginToApplication" data-provider="loginDataSet" finished-at="2023-02-26T08:47:55 IST" duration-ms="416" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -53,15 +53,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginToApplication -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.LoginTest@60df60da]" started-at="2023-02-26T08:13:02 IST" name="tearDown" finished-at="2023-02-26T08:13:03 IST" duration-ms="281" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.LoginTest@60df60da]" started-at="2023-02-26T08:47:55 IST" name="tearDown" finished-at="2023-02-26T08:47:55 IST" duration-ms="313" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUpBrowser()[pri:0, instance:testcases.LoginTest@60df60da]" started-at="2023-02-26T08:13:03 IST" name="setUpBrowser" finished-at="2023-02-26T08:13:05 IST" duration-ms="2633" status="PASS">
+        <test-method is-config="true" signature="setUpBrowser()[pri:0, instance:testcases.LoginTest@60df60da]" started-at="2023-02-26T08:47:55 IST" name="setUpBrowser" finished-at="2023-02-26T08:47:58 IST" duration-ms="2532" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpBrowser -->
-        <test-method signature="loginToApplication(java.lang.String,java.lang.String)[pri:0, instance:testcases.LoginTest@60df60da]" started-at="2023-02-26T08:13:05 IST" name="loginToApplication" data-provider="loginDataSet" finished-at="2023-02-26T08:13:06 IST" duration-ms="379" status="PASS">
+        <test-method signature="loginToApplication(java.lang.String,java.lang.String)[pri:0, instance:testcases.LoginTest@60df60da]" started-at="2023-02-26T08:47:58 IST" name="loginToApplication" data-provider="loginDataSet" finished-at="2023-02-26T08:47:58 IST" duration-ms="447" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -77,7 +77,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginToApplication -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.LoginTest@60df60da]" started-at="2023-02-26T08:13:06 IST" name="tearDown" finished-at="2023-02-26T08:13:06 IST" duration-ms="259" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.LoginTest@60df60da]" started-at="2023-02-26T08:47:59 IST" name="tearDown" finished-at="2023-02-26T08:47:59 IST" duration-ms="305" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
