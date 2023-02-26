@@ -18,7 +18,7 @@ public class CreateCourse extends BaseClass {
 
 	@Test
 	public void test2() throws Exception {
-		System.out.println("Test 2 added");
+		System.out.println("Test 2 added ");
 	}
 
 }
